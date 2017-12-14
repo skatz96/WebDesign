@@ -1,0 +1,160 @@
+
+
+a {
+	color: white;
+	display: block;
+	text-align: center;
+	margin-bottom:5%;
+}
+
+body {
+	background-color: #f2c9ec;
+	color: white ;
+} 
+
+
+.heading {
+	color:#e994fc;
+	font-family: 'Poiret One', cursive;
+}
+
+
+#coding {
+	color: yellow;
+}
+
+p {
+	color: #d442f4;
+	font-family: 'Poiret One', cursive;
+}
+
+
+
+th, td {
+	padding: 15px;
+}
+
+
+.table-header {
+	color: black;
+	text-align:center;
+}
+
+
+
+.Suggestions {
+	color:white;
+	text-align: center;
+
+}
+
+img {
+	display: block;
+	margin: auto;
+	margin-top:5%;
+}
+
+.rounded-circle 
+
+h1 {
+	text-align:center;
+	color:#e5ef70;
+	font-family: 'Lobster Two', cursive;
+	font-weight:700;
+	font-size:45px;
+	margin-top:7%;
+}
+
+p {
+	text-align:center;
+}
+
+.ranking {
+	color:#6057aa
+}
+.table {
+	text-align:center;
+	margin: auto;
+}
+
+.list {
+	display: block;
+	margin: auto;
+	margin-top:10%;
+}
+
+
+
+h2 {
+	text-align:center;
+	font-family: 'Lobster Two', cursive;
+}
+
+
+
+
+#main-img {
+	border-radius: 7%;
+}
+
+
+.container-p{
+	margin:5%;
+}
+
+
+
+#main-par {
+	font-size:25px;
+	line-height:1.5;
+}
+
+
+
+.text-container{
+	width:500px;
+	margin:auto;
+	border:1px solid white;
+	border-radius:45%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

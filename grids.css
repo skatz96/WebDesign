@@ -1,0 +1,128 @@
+.bg {
+	background-image:url("images/beach.jpg");
+	background-position: 0% 42%;
+	height:550px;
+	margin-bottom:0px;
+}
+
+.icon {
+	height:100px;
+	width:100px;
+	margin-bottom: 5%;
+}
+
+
+.title {
+	margin-top:4%;
+}
+
+
+.display-3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight:500;
+	font-size:65px;
+	color:white;
+}
+
+.lead {
+	font-family: 'Roboto', sans-serif;
+	color:white;
+	font-size:25px;
+	font-weight:300;
+}
+
+.mainButton{
+	margin-top:2%;
+}
+
+#why-us {
+	margin-top:5%;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+#mainBody {
+	background-color:#F5F5F5;
+}
+
+.myCol {
+	margin-top:4%;
+	margin-bottom:4%;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+}
+
+#cta {
+	background-color:#F5F5F5;
+	padding-top:3%;
+	padding-bottom:3%;
+	margin-top:3%;
+}
+
+.signUp {
+	width:164px;
+	height:58px;
+}
+
+
+#experience {
+	margin-top:3%;
+}
+
+.loc-col {
+	margin-right:5%;
+	margin-left:2.5%;
+}
+
+.loc-title {
+	margin-top:3%;
+	font-weight:300;
+}
+
+.location-container {
+	margin-top:10%;
+}
+
+.loc-row {
+	margin-bottom:5%;
+}
+
+.location {
+	width:300px !important;
+	height:250px !important;
+}
+
+
+
+
+.cta-text {
+	font-weight:400;
+	margin-bottom:6%;
+	font-size: 30px;
+}
+
+.page-footer {
+	background-color:#076bff;
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
